@@ -1,3 +1,5 @@
 This is a task 3 file created in visual studio code
 
 Add a new line in line 3
+
+10+1 = 11
